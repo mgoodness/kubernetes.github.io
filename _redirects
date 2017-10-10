@@ -72,7 +72,7 @@
 /docs/api-reference/1_5/*     https://v1-5.docs.kubernetes.io/docs/reference/ 301
 /docs/api-reference/v1.5/*     https://v1-5.docs.kubernetes.io/docs/reference/ 301
 /docs/api-reference/v1.6/*     https://v1-6.docs.kubernetes.io/docs/reference/ 301
-/docs/api-reference/v1.7/*     https://kubernetes-io-v1-7.netlify.com/docs/reference/ 301
+/docs/api-reference/v1.7/*     https://v1-7.docs.kubernetes.io/docs/reference/ 301
 /docs/api-reference/v1/definitions/     /docs/api-reference/v1.8/ 301
 /docs/api-reference/v1/operations/     /docs/api-reference/v1.8/ 301
 
@@ -97,7 +97,7 @@
 /docs/concepts/cluster-administration/resource-usage-monitoring /docs/tasks/debug-application-cluster/resource-usage-monitoring/ 301
 /docs/concepts/cluster-administration/static-pod/     /docs/tasks/administer-cluster/static-pod/ 301
 /docs/concepts/clusters/logging/     /docs/concepts/cluster-administration/logging/ 301
-/docs/concepts/configuration/container-command-arg/     /docs/tasks/inject-data-application/define-command-argument-container/ 301                
+/docs/concepts/configuration/container-command-arg/     /docs/tasks/inject-data-application/define-command-argument-container/ 301
 /docs/concepts/ecosystem/thirdpartyresource/     /docs/tasks/access-kubernetes-api/extend-api-third-party-resource/ 301
 /docs/concepts/jobs/cron-jobs/     /docs/concepts/workloads/controllers/cron-jobs/ 301
 /docs/concepts/jobs/run-to-completion-finite-workloads/     /docs/concepts/workloads/controllers/jobs-run-to-completion/ 301
